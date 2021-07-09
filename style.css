@@ -1,0 +1,56 @@
+body{
+   padding: 0px;  margin: 0px;
+}
+#select{
+   width: 25%;
+   height: 40px;
+/* margin-left: 30px; */
+}#ser{
+   width: 40%;
+   height: 40px;
+margin-right: -3%;
+}
+#sell{
+margin-right: 10%;
+width: 7%;
+}
+#Login{
+   margin-left: 3%;
+   /* width: 70px; */
+}
+.navbar-brand{
+   margin-left: 4%;
+}
+@media only screen and(min-width:400px){
+   .navbar-brand{
+      margin-left: 0%;
+   }
+}
+#nav2{
+   display: block;
+}
+.foot{
+   text-align: center;
+}.padding{
+   padding-top: 10px;
+}
+.btn-primary{
+margin: 10px auto;
+margin-left: 45%;
+}
+#diva{
+   display: none;
+}
+.d-flex{
+   margin-left:1% ;
+width: 70% !important;
+
+}
+.btn-outline-secondary{
+margin-right:3%;
+margin-left:0.7% ;
+
+
+}#lll li {
+display: inline;
+}
